@@ -1,0 +1,46 @@
+.container{
+	
+	width: 100%;
+	display: flex;
+    padding: 100px;
+
+}
+
+.one{
+
+	width: 50%;
+	
+}
+
+.two{
+	width: 50%;
+	
+}
+
+.box{
+	width: 500px;
+	padding:20px;
+	background-color: blueviolet;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.box2{
+	background: rgba(138,43,226,.5);
+}
+
+.box3{
+	background: rgba(138,43,226,.1);
+}
+
+.box4{
+	background: hsl(238, 76%, 30%);
+}
+
+.box5{
+	background: hsl(238, 76%, 60%);
+}
+
+.box6{
+	background: hsl(238, 76%, 80%);
+}
