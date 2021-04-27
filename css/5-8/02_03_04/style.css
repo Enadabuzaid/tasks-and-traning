@@ -1,0 +1,65 @@
+.box{
+	height:400px;
+	width: 400px;
+	border: 1px solid red;
+	background-size: 200px 200px;
+	background-image: url(https://images.unsplash.com/photo-1476820865390-c52aeebb9891?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+}
+
+.div-1{
+	background-repeat: no-repeat;
+	background-size:80%;
+	margin-bottom: 40px;
+
+}
+
+.div-2{
+	background-repeat: repeat-y;
+	background-position:right;
+	background-size:80%;
+	margin-bottom: 40px;
+}
+
+.div-3{
+	background-repeat: repeat-x;
+	background-position:bottom;
+	background-size:80%;
+	margin-bottom: 40px;
+
+
+}
+
+.div-4{
+	/*background-repeat: repeat;*/
+	background-repeat: no-repeat;
+	background-position:bottom right;
+	background-size:50%;
+	margin-bottom: 40px;
+
+}
+
+.div-5{
+	background-repeat: space;
+	margin-bottom: 40px;
+
+}
+
+.div-6{
+	background-repeat: round;
+	margin-bottom: 40px;
+
+}
+
+.div-7{
+	background-repeat: initial;
+	margin-bottom: 40px;
+
+}
+.div-8{
+	background-repeat: inherit;
+	
+}
+
+
+
+
